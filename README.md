@@ -14,7 +14,7 @@ Welcome to **Walmart Clone**, a robust e-commerce platform mimicking the experie
 🔍 **Oxylabs** for scraping product data efficiently  
 🎨 **Tailwind CSS** for building responsive and modern UI  
 🖌️ **Shadcn** for sleek UI components  
-🛠️ **Zustand** for state management
+🐻 **Zustand** for state management
 
 ## 🚀 Getting Started
 
