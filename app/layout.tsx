@@ -10,7 +10,8 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Walmart 2.0 Clone',
-  description: 'Welcome to Walmart',
+  description:
+    "Welcome to Walmart, a robust e-commerce platform mimicking the experience of one of the world's largest retailers. This project showcases cutting-edge technology to create a fully functional, scalable, and fast platform for users to browse and shop.",
   icons: {
     icon: '/walmart.svg',
   },
